@@ -1,0 +1,1 @@
+picoCTF{s0m3_SQL_f8adf3fb}
