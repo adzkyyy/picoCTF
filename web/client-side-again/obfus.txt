@@ -1,0 +1,8 @@
+if (checkpass["substring"](0x0, s * 0x2) == "picoCTF{") {
+      if (checkpass["substring"](0x7, 0x9) == '{n') {
+        if (checkpass["substring"](s * 0x2, s * 0x2 * 0x2) == "not_this") {
+          if (checkpass["substring"](0x3, 0x6) == 'oCT') {
+            if (checkpass["substring"](s * 0x3 * 0x2, s * 0x4 * 0x2) == "37115}") {
+              if (checkpass["substring"](0x6, 0xb) == 'F{not') {
+                if (checkpass["substring"](s * 0x2 * 0x2, s * 0x3 * 0x2) == "_again_3") {
+                  if (checkpass["substring"](0xc, 0x10) == "this") {
